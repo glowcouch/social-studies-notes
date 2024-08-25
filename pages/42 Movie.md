@@ -1,2 +1,2 @@
-- [[Jim Crow Laws]]
+- [[Human Rights/Slavery/Jim Crow Laws]]
 -

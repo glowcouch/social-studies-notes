@@ -1,4 +1,4 @@
-- [[Jim Crow Laws]]
+- [[Human Rights/Slavery/Jim Crow Laws]]
 - | But | So |
   | System of customs | Differed from place to place (Miss. Alab.) |
   | Depression: perceived competition for resources | Militant policing by white communities |

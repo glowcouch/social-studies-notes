@@ -1,4 +1,4 @@
-- [[Jim Crow Laws]]
+- [[Human Rights/Slavery/Jim Crow Laws]]
 - ## Vocabulary
 	- #### Social
 		- system of customs
