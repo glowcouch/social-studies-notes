@@ -1,0 +1,1 @@
+- {{renderer excalidraw, excalidraw-2024-06-20-14-59-56}}
