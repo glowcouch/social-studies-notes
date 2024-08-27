@@ -1,0 +1,4 @@
+- {{renderer :map_66ce51bd-eaa6-43dd-bdf8-4b18642c23d4, 10, 1.3521° N, 103.8198° E}}
+	- Syria
+	- Lesbos, Greece
+	- Athens
