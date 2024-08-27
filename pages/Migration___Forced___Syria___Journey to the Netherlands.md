@@ -2,5 +2,6 @@
 	- Syria
 	- Lesbos, Greece
 	- Athens, Greece
-	- Evzonai, Greece
+	- Evzonoi, Greece
 	- Gevgelija, Macedonia
+	- Kumanovo,
