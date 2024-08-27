@@ -9,4 +9,5 @@
 	- Belgrade, Serbia
 	- Hungarian border
 		- Arrested by the police
-	-
+	- Budapest, Hungary
+	- Ter Apel, Net
