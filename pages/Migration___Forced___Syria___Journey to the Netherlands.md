@@ -9,5 +9,6 @@
 	- Belgrade, Serbia
 	- Hungarian border
 		- Arrested by the police
+			- Trapped in a small
 	- Budapest, Hungary
-	- Ter Apel, Net
+	- Ter Apel, Netherlands
