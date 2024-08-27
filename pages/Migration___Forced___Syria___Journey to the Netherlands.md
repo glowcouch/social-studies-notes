@@ -9,6 +9,7 @@
 	- Belgrade, Serbia
 	- Hungarian border
 		- Arrested by the police
-			- Trapped in a small
+			- Trapped in a small hot room
+		- Separated from the rest of the group
 	- Budapest, Hungary
 	- Ter Apel, Netherlands
