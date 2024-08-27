@@ -1,6 +1,1 @@
-# Where do Syrian Refugees live now
-	-
-- # Fact File about Syrian Refugees
-	- Traveled by dingy from Kobarie Syria to Lesbos, Greece
-	- Took a bus and ferry from lesbos to ___
-	- Took a
+- {{renderer :map_66cd2831-f0c1-44f4-925c-8d2c2138b300, 10, 1.3521° N, 103.8198° E}}
