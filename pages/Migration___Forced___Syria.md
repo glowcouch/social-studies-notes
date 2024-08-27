@@ -12,3 +12,23 @@
 - The conflict in Syria began as a forceful crackdown on peaceful 
   student protests against the Syrian government on March 15, 2011, 
   escalating into full-scale violence.
+	- ## How has the ongoing conflict in Syria affected the country today?
+	  
+	  The continuation of the war, spanning more than a decade, has 
+	  devastated the country and its people, with far-reaching consequences 
+	  that impact the nation today:
+- **Loss of life:** The conflict has resulted in the deaths of hundreds of thousands, including civilians and the fighting factions.
+- **Destroyed infrastructure:** Ongoing conflict has 
+  significantly damaged the nation’s roads, bridges, schools, hospitals, 
+  and homes. People can’t access essential services due to the widespread 
+  devastation.
+- **Economic implications:** With many businesses and industries damaged or disrupted, the nation has experienced high unemployment and widespread poverty.
+- **Poverty increase:** Many Syrian families are slipping
+  into poverty, with nearly 13 million people unable to access enough 
+  food. Additionally, 9 out of 10 Syrian refugees find it challenging to 
+  fulfill their most basic needs.
+- **Displacement:** Millions of Syrians have been 
+  displaced from their communities, with 6.4 million refugees living in 
+  neighboring countries. The widespread displacement has led to a 
+  humanitarian crisis, with many people struggling to access life-saving 
+  essentials like food, water, and healthcare.
