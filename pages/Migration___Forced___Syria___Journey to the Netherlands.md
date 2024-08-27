@@ -7,4 +7,6 @@
 	- Kumanovo, Macedonia
 	- Presevo, Serbia
 	- Belgrade, Serbia
+	- Hungarian border
+		- Arrested by the police
 	-
