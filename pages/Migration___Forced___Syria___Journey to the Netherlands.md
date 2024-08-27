@@ -4,4 +4,7 @@
 	- Athens, Greece
 	- Evzonoi, Greece
 	- Gevgelija, Macedonia
-	- Kumanovo,
+	- Kumanovo, Macedonia
+	- Presevo, Serbia
+	- Belgrade, Serbia
+	-
