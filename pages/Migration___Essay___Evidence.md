@@ -1,4 +1,7 @@
 - {{embed ((66d4d823-95dc-4af4-880c-7e786d8c6462))}}
-- It is estimated that nearly two-thirds of international migrants are migrant workers,
-  contributing to the economies and societies where
-  they live.
+- # Argument
+	- No, in fact they are an overall benefit
+- # Facts
+	- It is estimated that nearly two-thirds of international migrants are migrant workers, contributing to the economies and societies where they live.
+	- In 2015 alone, it is estimated that migrants contributed over 9 per cent (or USD 6.7 trillion) to global GDP. For example, it is estimated that between 1990 and 2014, migrants added GBP 175 billion and GBP 155 billion to the GDP of the United Kingdom and Germany, respectively.
+	-
