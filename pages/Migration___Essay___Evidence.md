@@ -12,4 +12,10 @@
 		- Although migrants are represented across all skill levels, many among them work in the so-called 3D jobs (dirty, dangerous, and demanding) such as in construction, domestic work, or hospitality. These jobs tend to be the least favored by the native-born. Many countries of destination rely on international migrants to address labor market shortages. The
 		  COVID-19 pandemic has shed a light on the essential roles that migrant workers have long played in the functioning of society, including in critical sectors such as healthcare and the food industry.
 		- Migrants provide a source of economic dynamism globally, and are overrepresented in innovation and patents, arts and sciences awards, start-ups, and successful companies.
--
+- # Shouldn’t we stop migrants to reduce the threat of terrorism?
+	- ## Argument
+		- No
+	- ## Facts
+		- Migrants, asylum seekers and refugees are more likely to be the victims of violent extremism than the perpetrators of those acts. Violent extremism is a driver for internal displacement and migration.
+		- The majority of recent terrorist attacks were committed by citizens of the country where they
+		  occurred. The overwhelming majority of terrorist attacks worldwide occur in developing and least developed countries, particularly those affected by conflict and violence.
