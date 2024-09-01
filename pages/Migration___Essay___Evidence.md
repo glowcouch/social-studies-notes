@@ -9,7 +9,7 @@
 	- ## Argument
 		- No, they fill gaps in the labor market
 	- ## Facts
-		- Although migrants are represented across all skill levels, many among them work in the so-called
-		  3D jobs (dirty, dangerous, and demanding) such as in construction, domestic work, or hospitality. These
-		  jobs tend to be the least favored by the native-born.
-		-
+		- Although migrants are represented across all skill levels, many among them work in the so-called 3D jobs (dirty, dangerous, and demanding) such as in construction, domestic work, or hospitality. These jobs tend to be the least favored by the native-born. Many countries of destination rely on international migrants to address labor market shortages. The
+		  COVID-19 pandemic has shed a light on the essential roles that migrant workers have long played in the functioning of society, including in critical sectors such as healthcare and the food industry.
+		- Migrants provide a source of economic dynamism globally, and are overrepresented in innovation and patents, arts and sciences awards, start-ups, and successful companies.
+-
