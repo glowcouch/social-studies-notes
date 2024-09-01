@@ -14,7 +14,7 @@
 		- Migrants provide a source of economic dynamism globally, and are overrepresented in innovation and patents, arts and sciences awards, start-ups, and successful companies.
 - # Shouldn’t we stop migrants to reduce the threat of terrorism?
 	- ## Argument
-		- No
+		- No, most terrorists are from the country they are attacking
 	- ## Facts
 		- Migrants, asylum seekers and refugees are more likely to be the victims of violent extremism than the perpetrators of those acts. Violent extremism is a driver for internal displacement and migration.
 		- The majority of recent terrorist attacks were committed by citizens of the country where they
