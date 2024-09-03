@@ -420,4 +420,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
- :graph/settings {:builtin-pages? false}}
+ :graph/settings {:builtin-pages? false}
+ :zotero/settings-v2 {"default" {:type-id ""}}}
