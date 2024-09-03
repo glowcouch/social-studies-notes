@@ -21,4 +21,9 @@
 		  occurred. The overwhelming majority of terrorist attacks worldwide occur in developing and least developed countries, particularly those affected by conflict and violence.
 		- https://www.cfr.org/blog/southern-border-poses-terrorism-risks-homegrown-threats-still-loom-larger
 		- [[@Terrorism in America After 9/11]]
+			- 134 - far right
+			- 107 - jihadist
+			- 17 - Ideological Misogyny/Incel Ideology
+			- 13 - Black Separatist/Nationalist/Supremacist
 			-
+-
