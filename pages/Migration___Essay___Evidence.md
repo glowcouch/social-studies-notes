@@ -20,7 +20,7 @@
 			- [[@World Migration Report 2018]]
 		- The majority of recent terrorist attacks were committed by citizens of the country where they occurred. The overwhelming majority of terrorist attacks worldwide occur in developing and least developed countries, particularly those affected by conflict and violence.
 			- [[@Most terrorist attacks in the US are committed by Americans — not foreigners | Vox]]
-		- https://www.cfr.org/blog/southern-border-poses-terrorism-risks-homegrown-threats-still-loom-larger
+		- [[@The Southern Border Poses Terrorism Risks. Homegrown Threats Still Loom Larger. | Council on Foreign Relations]]
 		- [[@Terrorism in America After 9/11]]
 			- 134 - far right
 			- 107 - jihadist
