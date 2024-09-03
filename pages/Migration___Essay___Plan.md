@@ -5,5 +5,6 @@
 - # P1 - Migrants are (usually) a benefit
 - # P2 - Migrants don't (usually) take jobs
 - # P3 - Migrants aren't (usually) terrorists
-	- Christchurch shooting was white supremacy
+	- Christchurch shooting was white supremacy against immigrants.
+	- White supremacist terrorists [have killed more Americans than jihadists](https://www.newamerica.org/future-security/reports/terrorism-in-america/what-is-the-threat-to-the-united-states-today/) since 9/11—and pose an imminent threat not just to minority communities, but also the [federal government](https://www.fbi.gov/history/famous-cases/oklahoma-city-bombing) as well as [the Republican Party](https://www.cfr.org/blog/violent-far-right-terrorist-threat-republican-party-and-american-conservatism)
 - # Conclusion
