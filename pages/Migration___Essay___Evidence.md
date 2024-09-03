@@ -20,4 +20,4 @@
 		- The majority of recent terrorist attacks were committed by citizens of the country where they
 		  occurred. The overwhelming majority of terrorist attacks worldwide occur in developing and least developed countries, particularly those affected by conflict and violence.
 		- https://www.cfr.org/blog/southern-border-poses-terrorism-risks-homegrown-threats-still-loom-larger
-		- /zotero
+		- [[@Terrorism in America After 9/11]]
