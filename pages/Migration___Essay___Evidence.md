@@ -27,4 +27,3 @@
 			- 17 - Ideological Misogyny/Incel Ideology
 			- 13 - Black Separatist/Nationalist/Supremacist
 			- 1 - Far Left Wing
--
