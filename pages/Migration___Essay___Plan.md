@@ -3,7 +3,7 @@
 	- PPL think that migrants are bad
 	- They arent, except for some...
 - # P1 - Migrants are (usually) a benefit
-	-
+	- In 2015 alone, it is estimated that migrants contributed over 9 per cent (or USD 6.7 trillion) to global GDP. For example, it is estimated that between 1990 and 2014, migrants added GBP 175 billion and GBP 155 billion to the GDP of the United Kingdom and Germany, respectively.
 - # P2 - Migrants don't (usually) take jobs
 	- There is no correlation between more migrants and less jobs
 	- Migrants getting exploited
