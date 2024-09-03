@@ -17,8 +17,7 @@
 		- No, most terrorists are from the country they are attacking
 	- ## Facts
 		- Migrants, asylum seekers and refugees are more likely to be the victims of violent extremism than the perpetrators of those acts. Violent extremism is a driver for internal displacement and migration.
-		- The majority of recent terrorist attacks were committed by citizens of the country where they
-		  occurred. The overwhelming majority of terrorist attacks worldwide occur in developing and least developed countries, particularly those affected by conflict and violence.
+		- The majority of recent terrorist attacks were committed by citizens of the country where they occurred. The overwhelming majority of terrorist attacks worldwide occur in developing and least developed countries, particularly those affected by conflict and violence.
 		- https://www.cfr.org/blog/southern-border-poses-terrorism-risks-homegrown-threats-still-loom-larger
 		- [[@Terrorism in America After 9/11]]
 			- 134 - far right
