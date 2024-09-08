@@ -29,4 +29,5 @@
 			- 13 - Black Separatist/Nationalist/Supremacist
 			- 1 - Far Left Wing
 		- [[@Christchurch mosque shootings]]
-			- Shooter was a white supremacist who lived in New Zealand for
+			- Shooter was a white supremacist from Australia who lived in New Zealand for 18 months before committing the shootings.
+			-
