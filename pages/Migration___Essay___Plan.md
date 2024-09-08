@@ -1,13 +1,13 @@
 # Intro
 	- Migrants ...
 	- PPL think that migrants are bad
-	- They arent, usu...
+	- They arent, usually...
 - # P1 - Migrants are (usually) a benefit
 	- In 2015 alone, it is estimated that migrants contributed over 9 per cent (or USD 6.7 trillion) to global GDP. For example, it is estimated that between 1990 and 2014, migrants added GBP 175 billion and GBP 155 billion to the GDP of the United Kingdom and Germany, respectively.
 - # P2 - Migrants don't (usually) take jobs
 	- There is no correlation between more migrants and less jobs
 	- Migrants getting exploited
-- # P3 - Migrants aren't (usually) terrorists
+- # P3 - Terrorism & impact on culture
 	- Christchurch shooting was white supremacy against immigrants.
 	- White supremacist terrorists [have killed more Americans than jihadists](https://www.newamerica.org/future-security/reports/terrorism-in-america/what-is-the-threat-to-the-united-states-today/) since 9/11—and pose an imminent threat not just to minority communities, but also the [federal government](https://www.fbi.gov/history/famous-cases/oklahoma-city-bombing) as well as [the Republican Party](https://www.cfr.org/blog/violent-far-right-terrorist-threat-republican-party-and-american-conservatism)
 - # Conclusion
