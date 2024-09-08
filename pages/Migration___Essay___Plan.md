@@ -8,6 +8,6 @@
 	- There is no correlation between more migrants and less jobs
 	- Migrants getting exploited
 - # P3 - Terrorism & impact on culture
-	- Christchurch shooting was white supremacy against immigrants.
-	- White supremacist terrorists [have killed more Americans than jihadists](https://www.newamerica.org/future-security/reports/terrorism-in-america/what-is-the-threat-to-the-united-states-today/) since 9/11—and pose an imminent threat not just to minority communities, but also the [federal government](https://www.fbi.gov/history/famous-cases/oklahoma-city-bombing) as well as [the Republican Party](https://www.cfr.org/blog/violent-far-right-terrorist-threat-republican-party-and-american-conservatism)
+	-
+	- {{embed ((66d4d99e-8563-4337-a0f1-f70f89893dde))}}
 - # Conclusion
