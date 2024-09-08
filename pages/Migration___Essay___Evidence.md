@@ -28,5 +28,5 @@
 			- 17 - Ideological Misogyny/Incel Ideology
 			- 13 - Black Separatist/Nationalist/Supremacist
 			- 1 - Far Left Wing
-		- Christchurch shootings
-			-
+		- [[@Christchurch mosque shootings]]
+			- Shooter was a white supremacist who lived in New Zealand for
