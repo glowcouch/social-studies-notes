@@ -30,4 +30,3 @@
 			- 1 - Far Left Wing
 		- [[@Christchurch mosque shootings]]
 			- Shooter was a white supremacist from Australia who lived in New Zealand for 18 months before committing the shootings.
-			-
