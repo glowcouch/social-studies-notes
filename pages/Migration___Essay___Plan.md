@@ -5,8 +5,7 @@
 - # P1 - Migrants are (usually) a benefit
 	- In 2015 alone, it is estimated that migrants contributed over 9 per cent (or USD 6.7 trillion) to global GDP. For example, it is estimated that between 1990 and 2014, migrants added GBP 175 billion and GBP 155 billion to the GDP of the United Kingdom and Germany, respectively.
 - # P2 - Migrants don't (usually) take jobs
-	- There is no correlation between more migrants and less jobs
-	- Migrants getting exploited
+	- {{embed ((66d4d939-a049-4158-8731-e1e5d9c6f1de))}}
 - # P3 - Terrorism & impact on culture
 	-
 	- {{embed ((66d4d99e-8563-4337-a0f1-f70f89893dde))}}
