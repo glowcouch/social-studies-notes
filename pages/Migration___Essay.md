@@ -1,2 +1,2 @@
 - {{embed ((66d65d94-a1f7-45c8-b469-fef539b828c3))}}
-- The average New Zealand has a net fiscal contribution of $172, whereas migrants have a net fiscal contribution of $2653. Furthermore in 2015 migrants contributed an estimated 9 percent (or USD 6.7 trillion) to global GDP
+- The average New Zealand has a net fiscal contribution of $172, whereas migrants have a net fiscal contribution of $2653. Furthermore in 2015 migrants contributed an estimated 9 percent (or USD 6.7 trillion) to global GDP - where in 2015 migrants made up 3% of the global population
