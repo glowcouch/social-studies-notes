@@ -9,8 +9,11 @@ id:: 66d4d819-f321-4de3-a5b3-1af240b8dab3
 				- In 2015 alone, it is estimated that migrants contributed over 9 per cent (or USD 6.7 trillion) to global GDP.
 			- For example, it is estimated that between 1990 and 2014, migrants added GBP 175 billion and GBP 155 billion to the GDP of the United Kingdom and Germany, respectively.
 			- Available data reveal that international remittances reached USD 702 billion in 2020 (up from USD 128 billion in 2000). Remittances to low- and middle-income countries already outstrip both ODA and FDI, significantly contributing to poverty alleviation and development.
+			- ![image.png](../assets/image_1725929630279_0.png)
 		- ## Against
 			- Use public services and resources
+			- Put strain on the health system
+			- ***However, they contribute more than they use***
 - # Do migrant steal jobs from locals?
   id:: 66d4d939-a049-4158-8731-e1e5d9c6f1de
 	- ## Argument
