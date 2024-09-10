@@ -23,6 +23,9 @@ id:: 66d4d819-f321-4de3-a5b3-1af240b8dab3
 	- ## Facts
 		- Although migrants are represented across all skill levels, many among them work in the so-called 3D jobs (dirty, dangerous, and demanding) such as in construction, domestic work, or hospitality. These jobs tend to be the least favored by the native-born. Many countries of destination rely on international migrants to address labor market shortages. The COVID-19 pandemic has shed a light on the essential roles that migrant workers have long played in the functioning of society, including in critical sectors such as healthcare and the food industry.
 		- Migrants provide a source of economic dynamism globally, and are overrepresented in innovation and patents, arts and sciences awards, start-ups, and successful companies.
+		- [[@Migrant Employment Data | Ministry of Business, Innovation & Employment]]
+			- ![image.png](../assets/image_1726007847894_0.png)
+			-
 - # Shouldn’t we stop migrants to reduce the threat of terrorism?
   id:: 66d4d99e-8563-4337-a0f1-f70f89893dde
 	- ## Argument
