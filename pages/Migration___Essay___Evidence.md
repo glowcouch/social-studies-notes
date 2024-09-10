@@ -25,7 +25,7 @@ id:: 66d4d819-f321-4de3-a5b3-1af240b8dab3
 		- Migrants provide a source of economic dynamism globally, and are overrepresented in innovation and patents, arts and sciences awards, start-ups, and successful companies.
 		- [[@Migrant Employment Data | Ministry of Business, Innovation & Employment]]
 			- ![image.png](../assets/image_1726007847894_0.png)
-			-
+			- ![image.png](../assets/image_1726007884431_0.png)
 - # Shouldn’t we stop migrants to reduce the threat of terrorism?
   id:: 66d4d99e-8563-4337-a0f1-f70f89893dde
 	- ## Argument
