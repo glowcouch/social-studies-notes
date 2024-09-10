@@ -18,6 +18,7 @@ id:: 66d4d819-f321-4de3-a5b3-1af240b8dab3
 		- Migrants provide a source of economic dynamism globally, and are overrepresented in innovation and patents, arts and sciences awards, start-ups, and successful companies.
 - # Shouldn’t we stop migrants to reduce the threat of terrorism?
   id:: 66d4d99e-8563-4337-a0f1-f70f89893dde
+  collapsed:: true
 	- ## Argument
 		- No, most terrorists are from the country they are attacking
 	- ## Facts
