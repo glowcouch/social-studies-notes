@@ -11,7 +11,6 @@ id:: 66d4d819-f321-4de3-a5b3-1af240b8dab3
 			- Available data reveal that international remittances reached USD 702 billion in 2020 (up from USD 128 billion in 2000). Remittances to low- and middle-income countries already outstrip both ODA and FDI, significantly contributing to poverty alleviation and development.
 		- ## Against
 			- Use public services and resources
-			-
 - # Do migrant steal jobs from locals?
   id:: 66d4d939-a049-4158-8731-e1e5d9c6f1de
 	- ## Argument
