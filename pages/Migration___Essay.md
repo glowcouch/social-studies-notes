@@ -8,5 +8,4 @@
 	  logseq.order-list-type:: number
 	- [[@Migrant Employment Data | Ministry of Business, Innovation & Employment]]
 	  logseq.order-list-type:: number
-	- [[@Healthcare and social assistance | Ministry of Business, Innovation & Employment]]
-	  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
