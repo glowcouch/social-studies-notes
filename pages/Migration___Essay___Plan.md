@@ -11,8 +11,4 @@
 - # P3 - Terrorism & impact on culture
   id:: 66d65d96-9903-45d0-bb90-4361b9a1058f
 	- {{embed ((66d4d99e-8563-4337-a0f1-f70f89893dde))}}
-	- ## Culture
-		- Having migrants makes the country more diverse.
-			- (This is not a bad thing)
-		- People from other countries will have business connections to their origin country.
 - # Conclusion
