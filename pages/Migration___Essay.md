@@ -32,3 +32,5 @@
 	  logseq.order-list-type:: number
 	- [[@Christchurch mosque shootings]]
 	  logseq.order-list-type:: number
+	- [[@Fact-checking the Harris-Trump debate]]
+	  logseq.order-list-type:: number
