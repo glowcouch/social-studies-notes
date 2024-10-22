@@ -7,7 +7,7 @@
 			  logseq.order-list-type:: number
 			- Cousin - Hitler's mother
 			  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		-
 - # Education
 	-
 - # Time in Vienna
