@@ -7,7 +7,8 @@
 			  logseq.order-list-type:: number
 			- Cousin - Hitler's mother
 			  logseq.order-list-type:: number
-		-
+		- Very abusive and beat Hitler frequently
+			- >'His
 - # Education
 	-
 - # Time in Vienna
