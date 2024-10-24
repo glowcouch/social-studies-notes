@@ -12,8 +12,10 @@
 				- Guy Walters, author of "Nazis, Spies and Fakes"
 	- ## Mother
 		- Doted on Hitler and was one of the only loving figures in his life.
+	- ## Brother
+		- Died - Hitler got pretty depressed after.
 - # Education
-	-
+	- Peaked pretty early and ended up being bullied.
 - # Time in Vienna
 	-
 - # War Experiences
